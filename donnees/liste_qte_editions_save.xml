@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <ligne>
+        <edition>Alençon</edition>
+        <quantite>7456</quantite>
+    </ligne>
+    <ligne>
+        <edition>Ancenis- Châteaubriant*</edition>
+        <quantite>27535</quantite>
+    </ligne>
+    <ligne>
+        <edition>Ancenis*</edition>
+        <quantite>13155</quantite>
+    </ligne>
+    <ligne>
+        <edition>Angers</edition>
+        <quantite>50600</quantite>
+    </ligne>
+    <ligne>
+        <edition>Angers + Nord Anjou</edition>
+        <quantite>83367</quantite>
+    </ligne>
+    <ligne>
+        <edition>Argentan</edition>
+        <quantite>5466</quantite>
+    </ligne>
+    <ligne>
+        <edition>Auray- Quiberon</edition>
+        <quantite>15194</quantite>
+    </ligne>
+    <ligne>
+        <edition>Bain de Bgne- Janzé</edition>
+        <quantite>9936</quantite>
+    </ligne>
+    <ligne>
+        <edition>Basse Normandie</edition>
+        <quantite>124356</quantite>
+    </ligne>
+    <ligne>
+        <edition>Bayeux</edition>
+        <quantite>6786</quantite>
+    </ligne>
+    <ligne>
+        <edition>Bretagne</edition>
+        <quantite>426313</quantite>
+    </ligne>
+    <ligne>
+        <edition>Caen Est</edition>
+        <quantite>11717</quantite>
+    </ligne>
+    <ligne>
+        <edition>Caen Nord</edition>
+        <quantite>11320</quantite>
+    </ligne>
+    <ligne>
+        <edition>Caen Ouest</edition>
+        <quantite>11859</quantite>
+    </ligne>
+    <ligne>
+        <edition>Calvados</edition>
+        <quantite>60349</quantite>
+    </ligne>
+    <ligne>
+        <edition>Chantonnay-Pouzauges</edition>
+        <quantite>12888</quantite>
+    </ligne>
+    <ligne>
+        <edition>Châteaubriant- Guémené*</edition>
+        <quantite>14433</quantite>
+    </ligne>
+    <ligne>
+        <edition>Château-Gontier</edition>
+        <quantite>11141</quantite>
+    </ligne>
+    <ligne>
+        <edition>Cherbourg</edition>
+        <quantite>3302</quantite>
+    </ligne>
+    <ligne>
+        <edition>Cholet</edition>
+        <quantite>31962</quantite>
+    </ligne>
+    <ligne>
+        <edition>Combourg</edition>
+        <quantite>10304</quantite>
+    </ligne>
+    <ligne>
+        <edition>Concarneau</edition>
+        <quantite>8243</quantite>
+    </ligne>
+    <ligne>
+        <edition>Concarneau-Quimperlé-Le Faouët</edition>
+        <quantite>17672</quantite>
+    </ligne>
+    <ligne>
+        <edition>Côtes d'Armor</edition>
+        <quantite>104768</quantite>
+    </ligne>
+    <ligne>
+        <edition>Crozon -Châteaulin</edition>
+        <quantite>3677</quantite>
+    </ligne>
+    <ligne>
+        <edition>Deauville</edition>
+        <quantite>4391</quantite>
+    </ligne>
+    <ligne>
+        <edition>Deux Sèvres</edition>
+        <quantite>25500</quantite>
+    </ligne>
+    <ligne>
+        <edition>Dinan - Broons</edition>
+        <quantite>20228</quantite>
+    </ligne>
+    <ligne>
+        <edition>Falaise</edition>
+        <quantite>5663</quantite>
+    </ligne>
+    <ligne>
+        <edition>Finistère</edition>
+        <quantite>53414</quantite>
+    </ligne>
+    <ligne>
+        <edition>Finistère Nord</edition>
+        <quantite>15590</quantite>
+    </ligne>
+    <ligne>
+        <edition>Finistère Sud</edition>
+        <quantite>37877</quantite>
+    </ligne>
+    <ligne>
+        <edition>Flers</edition>
+        <quantite>9177</quantite>
+    </ligne>
+    <ligne>
+        <edition>Fougères</edition>
+        <quantite>10288</quantite>
+    </ligne>
+    <ligne>
+        <edition>Grand Angers</edition>
+        <quantite>63567</quantite>
+    </ligne>
+    <ligne>
+        <edition>Grand Caen</edition>
+        <quantite>34896</quantite>
+    </ligne>
+    <ligne>
+        <edition>Grand Nantes*</edition>
+        <quantite>106843</quantite>
+    </ligne>
+    <ligne>
+        <edition>Grand Rennes</edition>
+        <quantite>87071</quantite>
+    </ligne>
+    <ligne>
+        <edition>Grand Saint Brieuc</edition>
+        <quantite>41502</quantite>
+    </ligne>
+    <ligne>
+        <edition>Grand St Lô</edition>
+        <quantite>16041</quantite>
+    </ligne>
+    <ligne>
+        <edition>Granville</edition>
+        <quantite>8450</quantite>
+    </ligne>
+    <ligne>
+        <edition>Guingamp ville</edition>
+        <quantite>9382</quantite>
+    </ligne>
+    <ligne>
+        <edition>Hennebont</edition>
+        <quantite>13477</quantite>
+    </ligne>
+    <ligne>
+        <edition>Ille et Vilaine</edition>
+        <quantite>152567</quantite>
+    </ligne>
+    <ligne>
+        <edition>La Baule - Guérande*</edition>
+        <quantite>13753</quantite>
+    </ligne>
+    <ligne>
+        <edition>La Roche</edition>
+        <quantite>15430</quantite>
+    </ligne>
+    <ligne>
+        <edition>L'Aigle</edition>
+        <quantite>4229</quantite>
+    </ligne>
+    <ligne>
+        <edition>Lamballe - Fréhel</edition>
+        <quantite>9126</quantite>
+    </ligne>
+    <ligne>
+        <edition>Lannion- Guingamp</edition>
+        <quantite>27823</quantite>
+    </ligne>
+    <ligne>
+        <edition>Lannion ville</edition>
+        <quantite>11463</quantite>
+    </ligne>
+    <ligne>
+        <edition>Laval</edition>
+        <quantite>18880</quantite>
+    </ligne>
+    <ligne>
+        <edition>Le Mans</edition>
+        <quantite>35776</quantite>
+    </ligne>
+    <ligne>
+        <edition>Le Mans Nord</edition>
+        <quantite>17543</quantite>
+    </ligne>
+    <ligne>
+        <edition>Le Mans Sud</edition>
+        <quantite>11719</quantite>
+    </ligne>
+    <ligne>
+        <edition>Les Herbiers</edition>
+        <quantite>14824</quantite>
+    </ligne>
+    <ligne>
+        <edition>Les Sables</edition>
+        <quantite>13041</quantite>
+    </ligne>
+    <ligne>
+        <edition>Lisieux</edition>
+        <quantite>4531</quantite>
+    </ligne>
+    <ligne>
+        <edition>Locminé</edition>
+        <quantite>6069</quantite>
+    </ligne>
+    <ligne>
+        <edition>Loire Atlantique*</edition>
+        <quantite>188558</quantite>
+    </ligne>
+    <ligne>
+        <edition>Lorient ville</edition>
+        <quantite>13639</quantite>
+    </ligne>
+    <ligne>
+        <edition>Lorient-Hennebont-Ploemeur</edition>
+        <quantite>38680</quantite>
+    </ligne>
+    <ligne>
+        <edition>Lorient-Pontivy</edition>
+        <quantite>49699</quantite>
+    </ligne>
+    <ligne>
+        <edition>Loudéac</edition>
+        <quantite>10366</quantite>
+    </ligne>
+    <ligne>
+        <edition>Luçon - Fontenay</edition>
+        <quantite>12577</quantite>
+    </ligne>
+    <ligne>
+        <edition>Maine et Loire</edition>
+        <quantite>137848</quantite>
+    </ligne>
+    <ligne>
+        <edition>Manche</edition>
+        <quantite>37839</quantite>
+    </ligne>
+    <ligne>
+        <edition>Mayenne</edition>
+        <quantite>46065</quantite>
+    </ligne>
+    <ligne>
+        <edition>Mayenne ville-Evron</edition>
+        <quantite>16151</quantite>
+    </ligne>
+    <ligne>
+        <edition>Morbihan</edition>
+        <quantite>115564</quantite>
+    </ligne>
+    <ligne>
+        <edition>Mordelles- Bruz</edition>
+        <quantite>9588</quantite>
+    </ligne>
+    <ligne>
+        <edition>Nantes- Châteaubriant*</edition>
+        <quantite>134324</quantite>
+    </ligne>
+    <ligne>
+        <edition>Nantes Est*</edition>
+        <quantite>14682</quantite>
+    </ligne>
+    <ligne>
+        <edition>Nantes Nord*</edition>
+        <quantite>17483</quantite>
+    </ligne>
+    <ligne>
+        <edition>Nantes Ouest*</edition>
+        <quantite>23000</quantite>
+    </ligne>
+    <ligne>
+        <edition>Nantes Sud</edition>
+        <quantite>33887</quantite>
+    </ligne>
+    <ligne>
+        <edition>Nantes Ville</edition>
+        <quantite>18003</quantite>
+    </ligne>
+    <ligne>
+        <edition>Nord Anjou</edition>
+        <quantite>19800</quantite>
+    </ligne>
+    <ligne>
+        <edition>Nord Maine et Loire</edition>
+        <quantite>32767</quantite>
+    </ligne>
+    <ligne>
+        <edition>Orne</edition>
+        <quantite>26168</quantite>
+    </ligne>
+    <ligne>
+        <edition>Paimpol ville</edition>
+        <quantite>7084</quantite>
+    </ligne>
+    <ligne>
+        <edition>Pays de la Loire</edition>
+        <quantite>553132</quantite>
+    </ligne>
+    <ligne>
+        <edition>Pays de Retz*</edition>
+        <quantite>9845</quantite>
+    </ligne>
+    <ligne>
+        <edition>Ploemeur</edition>
+        <quantite>11670</quantite>
+    </ligne>
+    <ligne>
+        <edition>Ploërmel - Malestroit</edition>
+        <quantite>12488</quantite>
+    </ligne>
+    <ligne>
+        <edition>Pontchâteau*</edition>
+        <quantite>11540</quantite>
+    </ligne>
+    <ligne>
+        <edition>Pontivy</edition>
+        <quantite>11073</quantite>
+    </ligne>
+    <ligne>
+        <edition>Questembert - Muzillac</edition>
+        <quantite>11400</quantite>
+    </ligne>
+    <ligne>
+        <edition>Quimper- Pont l'Abbé</edition>
+        <quantite>16720</quantite>
+    </ligne>
+    <ligne>
+        <edition>Quimperlé- La Faouët</edition>
+        <quantite>9426</quantite>
+    </ligne>
+    <ligne>
+        <edition>Redon</edition>
+        <quantite>9778</quantite>
+    </ligne>
+    <ligne>
+        <edition>Rennes Est</edition>
+        <quantite>12452</quantite>
+    </ligne>
+    <ligne>
+        <edition>Rennes Nord</edition>
+        <quantite>20539</quantite>
+    </ligne>
+    <ligne>
+        <edition>Rennes Ouest</edition>
+        <quantite>10363</quantite>
+    </ligne>
+    <ligne>
+        <edition>Rennes Sud</edition>
+        <quantite>11272</quantite>
+    </ligne>
+    <ligne>
+        <edition>Rostrenen</edition>
+        <quantite>5063</quantite>
+    </ligne>
+    <ligne>
+        <edition>Rostrenen- Loudéac</edition>
+        <quantite>15429</quantite>
+    </ligne>
+    <ligne>
+        <edition>Saint Malo</edition>
+        <quantite>19456</quantite>
+    </ligne>
+    <ligne>
+        <edition>Saint Malo - Combourg - Dinan</edition>
+        <quantite>49988</quantite>
+    </ligne>
+    <ligne>
+        <edition>Saint Nazaire- Pays de Retz*</edition>
+        <quantite>53121</quantite>
+    </ligne>
+    <ligne>
+        <edition>Sarthe</edition>
+        <quantite>93815</quantite>
+    </ligne>
+    <ligne>
+        <edition>Sarthe Nord</edition>
+        <quantite>24556</quantite>
+    </ligne>
+    <ligne>
+        <edition>Sarthe Nord Est</edition>
+        <quantite>13654</quantite>
+    </ligne>
+    <ligne>
+        <edition>Sarthe Nord Ouest</edition>
+        <quantite>10902</quantite>
+    </ligne>
+    <ligne>
+        <edition>Sarthe Sud</edition>
+        <quantite>22942</quantite>
+    </ligne>
+    <ligne>
+        <edition>Sarthe Sud Est</edition>
+        <quantite>11955</quantite>
+    </ligne>
+    <ligne>
+        <edition>Sarthe Sud Ouest</edition>
+        <quantite>10987</quantite>
+    </ligne>
+    <ligne>
+        <edition>Saumur</edition>
+        <quantite>22550</quantite>
+    </ligne>
+    <ligne>
+        <edition>St Brieuc Est</edition>
+        <quantite>5353</quantite>
+    </ligne>
+    <ligne>
+        <edition>St Brieuc Ouest</edition>
+        <quantite>11258</quantite>
+    </ligne>
+    <ligne>
+        <edition>St Brieuc Ville</edition>
+        <quantite>15925</quantite>
+    </ligne>
+    <ligne>
+        <edition>St Gilles - Challans</edition>
+        <quantite>18954</quantite>
+    </ligne>
+    <ligne>
+        <edition>St Gilles - La Mézière</edition>
+        <quantite>13244</quantite>
+    </ligne>
+    <ligne>
+        <edition>St Malo-Combourg</edition>
+        <quantite>29760</quantite>
+    </ligne>
+    <ligne>
+        <edition>St Nazaire ville*</edition>
+        <quantite>18141</quantite>
+    </ligne>
+    <ligne>
+        <edition>Sud Manche - Avranches</edition>
+        <quantite>10206</quantite>
+    </ligne>
+    <ligne>
+        <edition>Vannes ville</edition>
+        <quantite>20978</quantite>
+    </ligne>
+    <ligne>
+        <edition>Vannes-Auray-Ploërmel</edition>
+        <quantite>65918</quantite>
+    </ligne>
+    <ligne>
+        <edition>Vendée</edition>
+        <quantite>86846</quantite>
+    </ligne>
+    <ligne>
+        <edition>Vendée Est</edition>
+        <quantite>40289</quantite>
+    </ligne>
+    <ligne>
+        <edition>Vendée Ouest</edition>
+        <quantite>46867</quantite>
+    </ligne>
+    <ligne>
+        <edition>Vire</edition>
+        <quantite>4456</quantite>
+    </ligne>
+    <ligne>
+        <edition>Vitré</edition>
+        <quantite>15938</quantite>
+    </ligne>
+    <ligne>
+        <edition>Vitré- Fougères</edition>
+        <quantite>26226</quantite>
+    </ligne>    
+</root>

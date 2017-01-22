@@ -1,0 +1,169 @@
+@CHARSET "UTF-8";
+body{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #EDEDED;
+    color: #5B4E4E;
+}
+div[class^="span"] label{
+    padding-top: 10px;
+}
+.separateur{
+    width: 55%;
+    height: 10px;
+    border-top: solid 1px #D8D8D8;
+    margin-bottom: 5px;    
+    margin-left: 14%;
+}
+.envoyer{
+    margin-top: 15px;
+    height: 40px;
+}
+#contenu{
+    border: 1px solid #EEEEEE;
+    border-radius: 8px 8px 8px 8px;
+    padding: 0 30px;
+    background-color: rgba(255, 255, 255, 0.7) !important;
+    background: url("/images/transparent.png") repeat scroll 0 0;
+}
+#titre{
+    background: url("/images/logo_TV_MAG_OUEST_petit.jpg") no-repeat scroll 0 0;
+    background-position: 30px 20px;
+    /*padding-left: 160px;
+    width: calc(100% - 160px);*/
+    height: 160px;
+    text-align: center;
+}
+#titretexte{
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 3%;    
+    margin-bottom: 30px;
+}
+#sstitretexte{
+    text-align: center;
+}
+.load{
+    text-align: center;
+    margin: 0 auto;
+}
+#texteinfo{
+    font-size: 11px;  
+    text-align: center;
+}
+.texteinfo{
+    font-size: 11px;
+}
+.gras{
+    font-weight: bold;
+}
+#diveditions{
+    display: inline-block;
+}
+
+.btneditions{
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bordurebas{
+    border-bottom: solid 1px #E9E9E9;    
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.bleu, .orange, .rouge, .vert, .noir {
+    padding-right: 7px;
+    padding-top: 3px;
+}
+.bleu {
+    color: blue;
+    /*background-color: #EAEAFF;*/
+    text-align: right;
+}
+.orange {
+    color: #F20C86;
+    /*background-color: #FCF3E3;*/
+    text-align: right;
+}
+.rouge {
+    color: red;
+    /*background-color: #FFEDED;*/
+    text-align: right;
+    font-weight: bold;
+}
+.vert {
+    color: green;
+    /*background-color: #EAFFEA;*/
+    text-align: right;
+}
+.fontvert {
+    color: green;
+    font-weight: bold;
+}
+.noir {
+    color: black;
+    text-align: right;
+}
+.gras{
+    font-weight: bold;
+}
+.titre{
+    font-weight: bold;
+    text-align: center;
+}
+.conclusion{
+    text-align: center;
+    /*background-color: #EEEEEE;*/
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    border-top: 2px solid #A0A0A0;
+    /*border-radius: 8px 8px 8px 8px;*/
+}
+.client{
+    background-color: #EEEEEE;
+    border: 1px solid #EEEEEE;
+    border-radius: 8px 8px 8px 8px;
+    margin-top: 10px;    
+    padding-top: 5px;
+}
+.client.row-fluid [class*="span"]{
+    min-height: 0px;    
+}
+#btnexport, #btnretour{
+    margin-bottom: 8px;
+}
+.showOption{
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
+@media(min-width: 768px) and (max-width: 1000px){
+    h1{
+      font-size: 32px;  
+    }
+    #titretexte{
+        width: 100%;
+        display: inline-block;
+        vertical-align: middle;
+        text-align: center;
+        padding-top: 3%;
+        padding-left: 0;
+    }
+    #titre{
+        background: url("/images/logo_TV_MAG_OUEST_petit.jpg") no-repeat scroll 0 0;
+        background-position: 0 20px;
+        /*padding-left: 160px;
+        width: calc(100% - 160px);*/
+        height: 160px;
+        text-align: center;
+    }
+}
+#formvide, #formnonvide{
+    margin-bottom: 8px;
+}
